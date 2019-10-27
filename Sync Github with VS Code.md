@@ -12,7 +12,7 @@ I make some changes in files on my VS Code database, it can sync t
 
 There are three ways I found by Googling[1][nyd] [2][vs] [3][mc]. I think one of them is the best way and listed below:
 
-## Link Github with VS code database
+## Link Github with VS code database
 1. Open a new repository in Github.
 2. Get inside the new repository. Click “Clone or download”. Copy the link (e.g. https://github.com/username/name_of_repository.git).
 3. Go to VS code. Open “Command Palette” (or Shift+Command+P on Mac).
@@ -25,7 +25,7 @@ There are three ways I found by Googling[1][nyd] [2][vs] [3][mc]. I thin
 
 <br>
 
-## Make changes in VS code and sync with Github.
+## Make changes in VS code and sync with Github.
 1. In “Workspace”, under the same name of Github repository, make changes in existing files or create a new file.
 2. Save changes.
 3. Check the left panel and click “Source Control” (Shift+Ctrl+G).
