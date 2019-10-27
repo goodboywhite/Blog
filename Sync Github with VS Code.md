@@ -1,4 +1,4 @@
-# Sync Github files with Visual Studio Code database
+# Sync Github files with Visual Studio Code database
 
 I am a programming newbie. Just took some programing language courses in the past month. I took python, R, and SQL. In terms of the choices of code editors, I have tried Jupyter Notebooks by Anaconda distribution, Google Colab, Azure Notebooks (listed in using order).
 
